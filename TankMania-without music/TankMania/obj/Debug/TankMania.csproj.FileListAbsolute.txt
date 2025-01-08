@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\TankMania\TankMania\bin\Debug\TankMania.exe.config
+C:\Users\Korisnik\source\repos\TankMania\TankMania\bin\Debug\TankMania.exe
+C:\Users\Korisnik\source\repos\TankMania\TankMania\bin\Debug\TankMania.pdb
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.Form1.resources
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.exe
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.pdb
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\TankMania\TankMania\bin\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\source\repos\TankMania\TankMania\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\source\repos\TankMania\TankMania\obj\Debug\TankMania.csproj.ResolveComReference.cache
