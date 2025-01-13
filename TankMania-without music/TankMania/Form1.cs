@@ -201,7 +201,7 @@ namespace TankMania
                         player = 0;
                         winner = true;
                     }
-                    else if (score2 > score1)
+                    else if (score1 > score2)
                     {
                         player = 1;
                         winner = true;
@@ -303,11 +303,11 @@ namespace TankMania
                     }
                     break;
                 case "Limited Classic":
-                    for (int i = 0; i < 1; i++)
+                    for (int i = 0; i < 8; i++)
                     {
                         listBox1.Items.Add(allWeapons[R.Next(allWeapons.Length)]);
                     }
-                    for (int i = 0; i < 1; i++)
+                    for (int i = 0; i < 8; i++)
                     {
                         listBox2.Items.Add(allWeapons[R.Next(allWeapons.Length)]);
                     }
